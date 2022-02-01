@@ -1,0 +1,22 @@
+1	START	megkapta a havi fizetését, és a bank levonta a kötelező biztosításokat
+2	Környezetvédelem	jó tanácsot kapott
+3	Új állás	új állás ajánlatot kapott
+4	Kert	dolgozott a kertben
+5	Fenttarthatóság	jó tanácsot kapott
+6	LOTTÓZÓ	úgy döntött, hogy szerencsét próbál 
+7	Bolt	a boltban tudatosan vásárolt. Ha tehette hazai terméket választott
+8	Önzetlenség	találkozott egy szegény emberrel és kisegítette pár forintal
+9	Vásárlás	vitt magával a boltba kosarat, ezzel környezet tudatos volt és spórolt is
+10	Lámpa	mindig oda figyel, hogy feleslegesen ne menjenek az energia fogyasztó eszközök
+11	Állatok	jó tanácsot kapott
+12	Szerencse	úgy döntött, hogy szerencsét próbál 
+13	Gazdaság	jó tanácsot kapott
+14	Túra	gyakran túrázik a természetben
+15	Szellőztetés	télen gyorsan és gyakran szellőztet
+16	Szemétszedés	tartva Triton haragjától részt vett az élővizek megtisztításában. Az össze gyüjtött szemetet boldogan vette át a MÉH
+17	Sportszelet	úgy döntött, hogy szerencsét próbál és vett egy Sport szeletet
+18	Tömegközlekedés	az esetek többségében tömegközlekedést használ
+19	Fenttarthatóság	jó tanácsot kapott
+20	Állattartás	egy felelőségteljes állattartó
+21	Táplálkozás	változatosan és kiegyensúlyozottan táplálkozik
+22	Trend	nem követi a trendeket, ezáltal spórolt

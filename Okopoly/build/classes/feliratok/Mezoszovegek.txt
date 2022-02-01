@@ -1,0 +1,22 @@
+1	START	megkapta a havi fizetését, és a bank levonta a kötelező biztosításokat	39	58	58	32	80	55	105	53
+2	Környezetvédelem	jó tanácsot kapott	43	147	62	134	81	155	102	132
+3	Új állás	új állás ajánlatot kapott	45	206	65	233	84	208	103	233
+4	Kert	dolgozott a kertben	42	315	67	284	83	321	105	295
+5	Fenttarthatóság	jó tanácsot kapott	47	362	65	398	81	368	100	398
+6	LOTTÓZÓ	úgy döntött, hogy szerencsét próbál	32	437	43	463	60	437	83	466
+7	Bolt	a boltban tudatosan vásárolt. Ha tehette hazai terméket választott	130	442	153	465	178	444	201	467
+8	Önzetlenség	találkozott egy szegény emberrel és kisegítette pár forintal	231	438	254	466	274	440	295	464
+9	Vásárlás	vitt magával a boltba kosarat, ezzel környezet tudatos volt és spórolt is	330	441	349	454	372	445	392	466
+10	Lámpa	mindig oda figyel, hogy feleslegesen ne menjenek az energia fogyasztó eszközök	426	450	449	463	476	451	497	469
+11	Állatok	jó tanácsot kapott	524	442	548	458	576	442	600	465
+12	Szerencse	úgy döntött, hogy szerencsét próbál	627	448	653	474	679	446	691	470
+13	Gazdaság	jó tanácsot kapott	624	388	650	365	660	393	677	369
+14	Túra	gyakran túrázik a természetben	635	319	644	294	664	319	682	292
+15	Szellőztetés	télen gyorsan és gyakran szellőztet	635	239	649	208	667	240	681	207
+16	Szemétszedés	tartva Triton haragjától részt vett az élővizek megtisztításában. Az össze gyüjtött szemetet boldogan vette át a MÉH	627	162	646	134	664	161	679	134
+17	Sportszelet	úgy döntött, hogy szerencsét próbál és vett egy Sport szeletet	629	76	648	51	668	85	687	55
+18	Tömegközlekedés	az esetek többségében tömegközlekedést használ	532	78	547	63	570	81	586	65
+19	Fenttarthatóság	jó tanácsot kapott	431	60	448	78	474	62	498	84
+20	Állattartás	egy felelőségteljes állattartó	332	81	394	64	376	79	353	63
+21	Táplálkozás	változatosan és kiegyensúlyozottan táplálkozik	237	82	259	63	276	83	296	65
+22	Trend	nem követi a trendeket, ezáltal spórolt	136	79	154	62	173	80	200	66

@@ -1,0 +1,50 @@
+Ökonomy - virtuális társasjáték
+_______________________________________________________________________________________________________________________________________________
+Játszon a barátaival, mintha a dobozos táblával játszana.
+A játék célja, hogy könyed témában dolgoza fel azokat a mindennapi életben elóforduló élethelyzeteket, amik helyes kezelésével 
+hozzájárulunk a környezeti lábnyomunk mérsékléséhez. 
+Az nyer, aki a táblán előszőr éli el az alapvető tárgyak megszerzését , és a legmagasabb környezeti lábnyom pontszámmal rendelkezik.
+
+
+A táblán előforduló mezőfajták:
+Start/kör eleje mező: a kezdő mező a játékban a hónap elejét szimbolizálja. Minden kör elején itt kapja meg a havi béredet.
+Sima mező: ezeken a mezőkön nem történik semmi, átlagos cselekvést ír le.
+Tanács mező: az ilyen tipusú mezőkön a környezetvédelem egy-egy részterületének felmerülő problémájáról kap tájékoztatást.
+Cselekvés mező: ezek a mezők a játék folyamatához adnak hozzá;
+Szerencse mező: 3 különböző tipusa elérhető a táblán: ezeken minijátékok találhatóak.
+	Lottózó: jelöljön meg 7 számot a 35-ből, ezután adja fel a szelvényét;
+	Szerencsekerék: pörgesse meg a szerencsekereket;
+	Nyerő csoki: nyissa ki a csokoládét, és nézze meg, mit nyert!
+
+Játék menete:
+-Kezdő lapon:
+A felhasználó választhat 2,3,4 játékos módok között. Alap értelmezésben 4 játékos mód van kiválasztva.
+A játékosok fixen rendelkezésre álló szineket kapnak. A játékos nevek szabadon változtathatóak.
+Az ablak az Esc gomb megnyomásával bezárható. A játékból bármikor ki lehet lépni.
+Lehetőség van mentett játék betöltésére a kezdő képernyőn. Előzőleg elmentett játékot, csak addig lehet vissza hívni, míg be nem fejeznek 
+egy új játékot. Befejezés után a régi mentés automatikusan törlődik. Illetve 1 mentési hely van, így egy mentés felülírja a másikat.
+-Tábla lapon:
+A játékosok a Start mezőrről indulnak, az előre meghatározott sorrendben. A kezdő lapon kiválasztott játékos számtól függ, hogy a játékban 
+milyen szinek fognak játszani. A minimális 2 fős játék esetében a zöld és a sárga szinek használhatóak. Azt, hogy épp melyik játékos van 
+soron, a tábla háttérszine fogja mutatni, illetve a bal alsó sarokból induló információs ablak jelzi. Kezdetben a felhasználók 500.000 Ft-os 
+egyenleggel, és 0%-os környezeti értékkel indulnak.  A játék a dobókocka megnyomásával veszi kezdetét, és ezt használva haladunk tovább. Minden 
+körre jellemző, hogy a rendelkezésre álló egyenleghez hozzá íródik a havi fizetés, azaz 500.000 Ft.
+A játékosok a számukra szükséges tárgyakat a bolban szerezhetik be. Boltban vásárolni csak 
+a dobást megelőzően lehet. A felszerelések különböző értékekkel érhetőek el. Mivel a játékot az nyeri, aki több környezetvédelmi pontot gyűjt 
+össze, érdemes azt a tárgyat megvásárolni, ami több pontot ad, igaz ezek beszerzési ára is magasabb.
+Szerencse mezők:
+	Lottózó: egy mező ára 250 Ft-t ami levonásra kerűl az egyenlegébő. A 7 szám megjelölése után Ön esélyes lesz arra hogy milliókat nyerjen.
+	Szerencsekerék: azonnali pénz vagy tárgy nyereményre jogosult, vagy jóváírást kap a környezeti pontokhoz, esetleg esélye van játszani 
+	a bónusz játékkal, a kvíz játékkal.
+	Nyerő  csoki: a csoki közepén lévő vízszintes vonalon haladjon végig úgy, hogy közben folyamatossan lenyomva tartja az egeret.
+	A vonal elejétől haladjon a végéig, és ne térjen el a vonaltól 5mm-nél távolabb. Ellenkező esetben a csoki nyitása újra kezdődik.
+A játékot idő közben mentheti, új játékot hozhat létre, vagy kiléphet mentés nélkül is. Kilépés esetén a mentésre a program minden esetben rákérdez.
+
+Kellemes időtöltést Kívánunk!
+
+Tami&Edi
+
+ 
+
+
+ 	

@@ -1,0 +1,62 @@
+"Tiszteljétek a természet jogait, kövessétek a szeretet sugallatát, s nem lesz szükségetek törvényekre."	Rückert	F.Alonso
+"... a természet, ez a gondos szülő, kezünk ügyébe rakott minden jót: a levegőt, a vizet meg a földet is, de alaposan eldugta azt, ami hívságos, ami haszontalan."	Morus	Nero
+"Cselekedj a természet rendje szerint, sose erőszakold a dolgokat, ne keresd a túlzott élvezeteket, lásd meg a nagyot a kicsiben, lásd meg a sokat a kevésben, a rosszat is jóval viszonozd."	Lao-ce	Konfucius
+"A természet varázsát ontja bőven: A fűben, a virágban és a kőben. Ó nincs a földön oly silány anyag, Mely így vagy úgy ne szolgálná javad; De nincs oly jó, melyben ne volna vész, Ha balga módra véle visszaélsz!"	Shakespeare	Thomas Man
+"...mit kívánna a mai ember a jó tündértől, ha elébe toppanna egy erdei ösvényen? Hogy maradjon meg a madárdalos erdő, hogy benne minden tavaszon szólaljon meg a kakukk, vidáman rikkantson a sárgarigó és búgjanak a vadgalambok. Hogy maradjanak ... vén, odvas fák, amikbe harkály vájhatja odúját. Hogy békében futkározhasson a mókus az öreg fák ágain."	Schmidt Egon	Schmidt Mária
+"...Sok minden amit szilárdnak szoktunk tekinteni, inkább a babona homokján, mint a természet szikláján nyugszik."	Frazer	Leaser
+"Természet. Bünteti a szenvedést, és jutalmazza az örömet..."	Karinthy Frigyes	Kosztolányi Dezső
+"A természet erős bosszúálló, aki magát megcsúfolni nem engedi."	Jókai Mór	Csokonai Vitéz Mihály
+"Mindenkor engedelmeskedem a természetnek, és meg nem kísérlem, hogy én parancsoljak neki."	Rodin	Rohin
+"... a természet rabságából való szabadulás fejében az ember kiszolgáltatta magát annak a mesterséges környezetnek, melyet a természet legyőzését lehetővé tevő technikai fejlesztése révén hozott létre."	Toynbee	Newton
+"A természet mindig sikeresebb törvényeket szerkeszt, mint az ember."	Montaigne	Héraklidész
+"Uram! E drága bolygót adtad nekünk lakhelyül, rejtett, titkos kincsekkel tele ... Kiássuk a kincset, hogy elherdáljuk, hogy megalkossuk a pusztulás iszonyú gépezetét.	Szentgyörgyi Albert	Neumann János
+"...az ember pedig csak egy részecskéje a természetnek,"	Spinoza	Einstein
+"Amíg az ember magát tartja a világegyetem középpontjának, addig nyakig lesz a barbárságban."	Herczeg Ferenc	Ferenc herceg
+"A természet sosem fogja követni az embert, hanem az embernek kell követni a természet törvényeit."	Dioskurides	Ohm
+"Templom a természet: élő oszlopai időnként szavakat mondanak összesúgva: Jelkép erdején át visz az ember útja s a vendéget szemünk barátként figyeli."	Baudelaire	Victor Hugo
+"Merem állítani, hogy valamennyi ismeret közül számunkra a természet törvényeinek ismerete a leghasznosabb."	Lamarck	Newton
+"Hihetetlenül szép és dús kertet örököltünk, csak az a baj, hogy ... annyi fáradságot sem vettünk magunknak, hogy a kertészkedés legelemibb törvényeit megtanuljuk. Kertünk elhanyagolása révén súlyos katasztrófát készítünk elő, ... és ezt olyan vak ön-feledséggel tesszük, mint a tudatlan gyerek, aki ollóval szabdal szét egy Rembrandt-képet."	Gerald Durrel	Bálint gazda
+"Az embert az a rokonszenv teszi igazán emberré, amelyet az élőlények iránt érez."	Albert Schweitzer	Albert Einstein
+"... igazi kulturális felemelkedés csak akkor várható, ha az emberi alkotások nem a természet romjain, de azok mellett, azok keretében nyernek tért."	Kaán Károly	Baán Adrián
+"Mennyi örömet szerezhetnének maguknak az emberek, ha tudnák, milyen gazdag a Föld, és mennyi minden csodálatos rajta."	Maxim Gorkij	Dosztojevszkij
+"Van egy törvény, mely minden polgári törvények fölött örök és változhatatlan, melyet a világ kezdetétől ennyi századokon keresztül semmi álokoskodás sarkaiból ki nem forgatott, semmi hatalom és erőszak el nem nyomhatott: ez a természetnek szeghetetlen szent törvénye."	Deák Ferenc	Schmidt Pál
+"A természetbúvár számára egy veréb épp oly érdekes, mint egy paradicsommadár, egy szerény gyíkocska ugyanolyan lenyűgöző, mint egy krokodil, egy egér viselkedése nem kevésbé izgalmas, mint egy tigrisé."	Durrell	Dian Fossey
+"Ültess fát! Hogyha mást nem, lombot ad. Árnyékában megpihenhetsz, gondot ő visel reád..."	Jókai Mór	Al Gore
+"A természet az egyetlen olyan szerelem, mely az embert reményeiben nem csalja meg."	Balsac	Dante
+"A levegő értékes a rézbőrű indián számára; minden élőlény azt lélegzi be - a vadállat, a fa, az ember, mind azon osztozik."	Egy indián főnök üzenete (Seattle, USA)	Egy eszkimó üzenete (Alaszka, USA)
+Van-e olyan madár, amelyik nem tud járni?	Van	Nincs
+Van-e olyan madár, amelyik hátrafelé is tud repülni?	Van	Nincs
+Melyik madár az, amelyik fejjel lefelé mászkál a fakérgen?	Csuszka	Mászka
+Létezik-e madár, amelyik röpképtelen fiókáit szállítja?	Igen	Nem
+Él-e hazánkban jávorszarvas?	Nem él	Él
+Él-e hazánkban kanalas réce?	Nem él	Él
+Él-e hazánkban mocsári teknős?	Él	Nem él
+Él-e hazánkban pásztorgém?	Nem él	Él
+Honos-e hazánkban az ezüstsirály?	Honos	Nem honos
+Honos-e hazánkban a zerge?	Nem honos	Honos
+Honos-e hazánkban a hermelin?	Honos	Nem honos
+Él-e hazánkban alpesi gőte?	Él	Nem él
+Él-e hazánkban pártás daru?	Nem él	Él
+Él-e hazánkban törpesas?	Él	Nem él
+Él-e hazánkban pézsmapocok?	Él	Nem él
+Él-e hazánkban kerceréce?	Él	Nem él
+Él-e hazánkban rénszarvas?	Nem él	Él
+Él-e hazánkban törpekuvik?	Nem él	Él
+Él-e hazánkban kígyászölyv?	Él	Nem él
+Mi veszélyezteti leginkább a tengereket, óceánokat az alábbiak közül?	olajbalesetek	a bálnavadászat	városi (kommunális) szennyvizek beleengedése	strandolók
+Nádas-gyékényes szegélyekben melyik ragadozómadár faj költ az alábbiak közül?	barna rétihéja	réti sas	halász sas	szirti sas
+Melyik madárfaj védett az alábbiak közül?	cigányréce	tőkésréce	barátréce	csörgő réce
+Melyik volt az első nemzeti park Magyarországon?	Kiskunsági	Hortobágyi	Fertői	Aggteleki
+Melyik nemzeti park területén költ uhu?	Bükki	Fertői	Kiskunsági	Már nem költ Magyarországon
+Hol volt elsőként nemzeti park?	Amerikai Egyesült Államok	Magyarország	Hollandia	Egyesült Királyság 
+Él-e a szabad természetben hazánkban a hóbagoly?	Nagyon ritkán kóborol erre	Nem	Egy kis csapat él a Aggteleki Nemzeti Park területén	Mára már kihalt
+Melyik folyónak hosszabb a magyarországi szakasza?	Tisza	Duna	Rába	Hármas-Körös
+Mi a boldogasszony papucsa?	orchideafaj	nagyi papucsa	egy szent papucsa	páfrányféle
+Melyik a legveszélyesebb allergén növény hazánkban?	parlagfű	akác	repce	pongyola pittypang
+Melyik virág díszíti a húszforintos érmét	magyar nőszirom	tearózsa	ibolya	árvácska
+Melyik a hazánkban őshonos marhafajta?	szürkemarha	magyartarka	angus	wagyu
+Hogy hívják a magyar Alföld jellegzetes, csavartszarvú, hosszú gyapjas juhfajtáját?	Racka	Cigája	Romanov	Bábolna Tetra
+Él-e Magyarországon a szabadban mérgeskígyó?	Igen	Nem	Csak fogságban	Régen élt
+Ki volt Hermann Ottó?	Természettudós	Politikus	Író	Iskolaigazgató
+Mennyi férget eszik meg évente a hasznos és védett vakond?	100-200 kg	500-1000 kg	10-20 kg	100-200 dkg
+Melyik madár díszíti az ötvenforintos pénzérmét?	Kerecsensólyom	Magyar nőszirom	Címer	Lánchíd

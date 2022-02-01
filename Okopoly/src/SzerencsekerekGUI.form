@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+      <Dimension value="[853, 476]"/>
+    </Property>
+    <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+      <Dimension value="[853, 476]"/>
+    </Property>
+    <Property name="undecorated" type="boolean" value="true"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel2" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel2" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel2">
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JPanel(){&#xa;    @Override&#xa;    public void paintComponent(Graphics g){&#xa;        super.paintComponent(g);&#xa;        Image newImage = hatter.getScaledInstance(853,476,Image.SCALE_DEFAULT);&#xa;        g.drawImage(newImage,0,0,null);&#xa;    }&#xa;}"/>
+      </AuxValues>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel1">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" id="white" palette="1" red="ff" type="palette"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jPanel1MouseClicked"/>
+          </Events>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JPanel(){&#xa;    @Override&#xa;    public void paintComponent(Graphics g){&#xa;        super.paintComponent(g);&#xa;        Image newImage = hatter.getScaledInstance(853,476,Image.SCALE_DEFAULT);&#xa;        g.drawImage(newImage,0,0,null);&#xa;        Image kerek2 = kerek.getScaledInstance(476,476,Image.SCALE_DEFAULT);&#xa;        AffineTransform at= AffineTransform.getTranslateInstance((jPanel2.getWidth()/2)-(476/2),(jPanel2.getHeight()/2)-(476/2));&#xa;        if(mehet &amp;&amp; t&gt;=0){&#xa;            at.rotate(Math.toRadians(szog)+lassulas, 476/2, 476/2);&#xa;            if(t!=0){&#xa;                lassulas+=t*(0.001);&#xa;                t--;&#xa;            }&#xa;            else{&#xa;&#xa;                try{TimeUnit.SECONDS.sleep(3);}catch(Exception e){}&#xa;                int r2;&#xa;                switch(index){&#xa;                    case 0:{&#xa;                        if(gui.jatekosok.get(gui.aktualisjatekos).getElektromos()){&#xa;                            gui.jatekosok.get(gui.aktualisjatekos).addPenz(5000000);&#xa;                            szoveg=&quot;elektromos aut&#xf3;t nyert volna de m&#xe1;r van neki, &#xed;gy megkapta az &#xe1;r&#xe1;t&quot;;&#xa;                        }&#xa;                        else{&#xa;                            gui.jatekosok.get(gui.aktualisjatekos).setAuto(true);&#xa;                            gui.jatekosok.get(gui.aktualisjatekos).setElektromos(true);&#xa;                            gui.jatekosok.get(gui.aktualisjatekos).addPont(50);&#xa;                            szoveg=&quot;elektromos aut&#xf3;t nyert&quot;;&#xa;                        }&#xa;                        gui.setTextJLabel(szoveg);&#xa;                        gui.aktualisjatekos++;&#xa;                        if(gui.aktualisjatekos&gt;=gui.jatekosok.size()){&#xa;                            gui.aktualisjatekos=0;&#xa;                        }&#xa;                        new GUI(gui).setVisible(true);&#xa;                        gui.dispose();&#xa;                        dispose();&#xa;                        break;&#xa;                    }&#xa;                    case 1:{&#xa;                        gui.jatekosok.get(gui.aktualisjatekos).addPenz(1000000);&#xa;                        szoveg=&quot;+1.000.000 Ft&quot;;&#xa;                        gui.setTextJLabel(szoveg);&#xa;                        gui.aktualisjatekos++;&#xa;                        if(gui.aktualisjatekos&gt;=gui.jatekosok.size()){&#xa;                            gui.aktualisjatekos=0;&#xa;                        }&#xa;                        new GUI(gui).setVisible(true);&#xa;                        gui.dispose();&#xa;                        dispose();&#xa;                        break;&#xa;                    }&#xa;                    case 2:{&#xa;                        gui.jatekosok.get(gui.aktualisjatekos).addPont(100);&#xa;                        szoveg=&quot;+100 &#xd6;kopont&quot;;&#xa;                        gui.setTextJLabel(szoveg);&#xa;                        gui.aktualisjatekos++;&#xa;                        if(gui.aktualisjatekos&gt;=gui.jatekosok.size()){&#xa;                            gui.aktualisjatekos=0;&#xa;                        }&#xa;                        new GUI(gui).setVisible(true);&#xa;                        gui.dispose();&#xa;                        dispose();&#xa;                        break;&#xa;                    }&#xa;                    case 3:{&#xa;                        if (!gui.jatekosok.get(gui.aktualisjatekos).getHaz().getVane() || gui.jatekosok.get(gui.aktualisjatekos).getHaz().getHuto()){&#xa;                            gui.jatekosok.get(gui.aktualisjatekos).addPenz(150000);&#xa;                            gui.setTextJLabel(&quot;Megnyerte a h&#xe1;ztart&#xe1;si eszk&#xf6;z&#xf6;k &#xe1;r&#xe1;t&quot;);&#xa;                        }&#xa;                        else{&#xa;                            gui.jatekosok.get(gui.aktualisjatekos).getHaz().setHuto(true);&#xa;                            gui.jatekosok.get(gui.aktualisjatekos).getHaz().setMikro(true);&#xa;                            gui.jatekosok.get(gui.aktualisjatekos).getHaz().setMosogato(true);&#xa;                            gui.jatekosok.get(gui.aktualisjatekos).getHaz().setMosogatogep(true);&#xa;                            gui.jatekosok.get(gui.aktualisjatekos).getHaz().setMosogep(true);&#xa;                            gui.setTextJLabel(&quot;H&#xe1;ztart&#xe1;si eszk&#xf6;z&#xf6;ket nyert&quot;);&#xa;                        }&#xa;                        new GUI(gui).setVisible(true);&#xa;                        gui.dispose();&#xa;                        dispose();&#xa;                        break; //H&#xe1;ztart&#xe1;si&#xa;                    }&#xa;                    case 4:{&#xa;                        int r=(int)(Math.random()*4);&#xa;                        switch (r){&#xa;                            case 0:{&#xa;                                r2=(int)(Math.random()*gui.allattartastanacs.length);&#xa;                                new Tanacs(gui.allattartastanacs[r2],&quot;AllattartasHatter.jpg&quot;,gui).setVisible(true);&#xa;                                break;&#xa;                            }&#xa;                            case 1:{&#xa;                                r2=(int)(Math.random()*gui.fenntarthatosagtanacs.length);&#xa;                                new Tanacs(gui.fenntarthatosagtanacs[r2],&quot;FenntarthatosagGUI.jpg&quot;,gui).setVisible(true);&#xa;                                break;&#xa;                            }&#xa;                            case 2:{&#xa;                                r2=(int)(Math.random()*gui.gazdasagtanacs.length);&#xa;                                new Tanacs(gui.gazdasagtanacs[r2],&quot;GazdasagHatter.png&quot;,gui).setVisible(true);&#xa;                                break;&#xa;                            }&#xa;                            case 3:{&#xa;                                r2=(int)(Math.random()*gui.kornyezetvedelemtanacs.length);&#xa;                                new Tanacs(gui.kornyezetvedelemtanacs[r2],&quot;KornyezetvedelemHatter.jpg&quot;,gui).setVisible(true);&#xa;                                break;&#xa;                            }&#xa;                        }&#xa;                        break; //j&#xf3; tan&#xe1;cs&#xa;                    }&#xa;                    case 5:{&#xa;                        int rq=(int)(Math.random()*gui.quiz.size());&#xa;                        QuizGUI qgui=new QuizGUI(gui.quiz.get(rq),gui);&#xa;&#xa;                        break; //Quiz&#xa;                    }&#xa;                }&#xa;                kesz=true;&#xa;&#xa;                dispose();&#xa;            }&#xa;        }&#xa;        Graphics2D g2d=(Graphics2D) g;&#xa;        g2d.setBackground(java.awt.Color.white);&#xa;        g2d.drawImage(kerek2,at,null);&#xa;        repaint();&#xa;        g2d.setColor(Color.cyan);&#xa;        g2d.setStroke(new BasicStroke(10));&#xa;        g2d.drawPolygon(new int [] {650,700,700}, new int [] {238,220,256}, 3);&#xa;        g.setColor(Color.blue);&#xa;        g.fillPolygon(new int [] {650,700,700}, new int [] {238,220,256}, 3);&#xa;    }&#xa;}"/>
+          </AuxValues>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <EmptySpace min="0" pref="853" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <EmptySpace min="0" pref="476" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
