@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="location" type="java.awt.Point" editor="org.netbeans.beaninfo.editors.PointEditor">
+      <Point value="[386, 547]"/>
+    </Property>
+    <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+      <Dimension value="[530, 530]"/>
+    </Property>
+    <Property name="name" type="java.lang.String" value="sugo" noResource="true"/>
+    <Property name="undecorated" type="boolean" value="true"/>
+    <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+      <Dimension value="[525, 530]"/>
+    </Property>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <Events>
+    <EventHandler event="keyReleased" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="formKeyReleased"/>
+  </Events>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,18,0,0,2,18"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="true"/>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="550" height="560"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="2c" green="29" red="24" type="rgb"/>
+            </Property>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Bahnschrift" size="10" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="&#xa; S&#xfa;g&#xf3;&#xa; _________________________________________________________________________________________________________&#xa;&#xa; Kedves Felhaszn&#xe1;l&#xf3;!&#xa; K&#xf6;sz&#xf6;nj&#xfc;k, hogy megtisztelted j&#xe1;t&#xe9;kunkat a bizalmaddal. A program felhaszn&#xe1;l&#xf3;i &#xe9;s fejleszt&#x151;i dokument&#xe1;ci&#xf3;j&#xe1;t: &#xa; https://docs.google.com/document/d/1NR3_lyd28TD6P8-ehXo_-rixgVs8HF7zA4h4eX9XYtA/edit?usp=sharing&#xa; linken el&#xe9;rve tal&#xe1;lod meg.&#xa;&#xa; Kil&#xe9;pni a FEL&#xdc;LETEN v&#xe9;gzett kattint&#xe1;s seg&#xed;ts&#xe9;g&#xe9;vel tudsz innen!&#xa;&#xa; J&#xe1;t&#xe9;k menete:&#xa; Gy&#x151;zd le a m&#xe1;sik j&#xe1;t&#xe9;kost! Az a felhaszn&#xe1;l&#xf3; nyer, aki hamarabb &#xe9;r a m&#xe1;sik f&#xe9;l t&#xe1;bor&#xe1;ba. A halad&#xe1;sotokat a&#xa; p&#xe1;ly&#xe1;n elhelyezett mez&#x151;k h&#xe1;tr&#xe1;ltatj&#xe1;k, illetve gyors&#xed;tj&#xe1;k. K&#xfc;l&#xf6;nb&#xf6;z&#x151; fel&#xfc;let&#x171; mez&#x151;knek m&#xe1;s m&#xe1;s j&#xe1;t&#xe9;kbeli &#xa; tulajdons&#xe1;ga van. &#xa; Dobni az inform&#xe1;ci&#xf3;s panelek k&#xf6;z&#xf6;tt elhelyezett dob&#xf3;kock&#xe1;kkal tudsz, a fel&#xfc;let&#xe9;n val&#xf3; kattint&#xe1;ssal. Azt hogy ki&#xa; k&#xf6;vetkezik, a kocka keret&#xe9;nek sz&#xed;neez&#xe9;se mutatja, ami feket&#xe9;r&#x151;l s&#xe1;rg&#xe1;ra v&#xe1;lt. Nem t&#xf6;rv&#xe9;nyszer&#x171;, hogy&#xa; felv&#xe1;ltva k&#xf6;vetkeztek a l&#xe9;p&#xe9;sben, az egym&#xe1;sut&#xe1;nis&#xe1;got az al&#xe1;bbi mez&#x151;k m&#xf3;dos&#xed;thatj&#xe1;k:&#xa; - Z&#xf6;ld mez&#x151;: Gy&#xf3;gy&#xed;t, a csat&#xe1;ban nyertes f&#xe9;l &#xe9;leterej&#xe9;t t&#xf6;lti vissza legfeljebb maximumra;&#xa; - F&#xf6;ld mez&#x151;: l&#xe9;ptet, a dob&#xe1;s &#xe9;rt&#xe9;k&#xe9;n t&#xfa;l plusz l&#xe9;p&#xe9;sekkel seg&#xed;theti a halad&#xe1;st;&#xa; - Homok mez&#x151;: H&#xe1;tr&#xe1;ltat, ezen &#xe1;lva a v&#xe9;letlen d&#xf6;nt hogy az adott k&#xf6;rben l&#xe9;phetsz-e vagy sem;&#xa; - K&#x151; mez&#x151;: csata mez&#x151;, ha mindketten ilyen tipus&#xfa; mez&#x151;n &#xe1;lltok, akkor csat&#xe1;ra ker&#x171;l sor. Ehhez egy &#xfa;j grafikus&#xa; fel&#xfc;let ny&#xed;lik meg, ezen tudtok megm&#xe9;rk&#xf6;zni egym&#xe1;ssal. Els&#x151;k&#xe9;nt a pajzs &#xe9;s a fegyver &#xe9;rt&#xe9;kek kopnak el a t&#xe1;m-&#xa; ad&#xe1;sok sor&#xe1;n, majd a legv&#xe9;g&#xe9;n az &#xe9;let rov&#xe1;s&#xe1;ra megy egy-egy t&#xe1;mad&#xe1;s. A tal&#xe1;lat &#xe9;s a v&#xe9;dekez&#xe9;s &#xe9;rt&#xe9;k&#xe9;t is do-&#xa; b&#xf3;kocka haszn&#xe1;lat&#xe1;val d&#xf6;ntj&#xfc;k el.  A nyertes folytathatja &#xfa;tj&#xe1;t a t&#xe1;bl&#xe1;n, a vesztes azonban a kezd&#x151; pozici&#xf3;ra l&#xe9;p;&#xa; - F&#xe9;m mez&#x151;: G&#xe9;pi j&#xe1;t&#xe9;k, mikor az egyik j&#xe1;t&#xe9;kos a k&#xf6;z&#xe9;ps&#x151; ter&#xfc;leten elhelyezked&#x151; mez&#x151;k egyik&#xe9;re l&#xe9;p, g&#xe9;pi csat-&#xa; &#xe1;ra ker&#x171;l sor. A j&#xe1;t&#xe9;kos f&#xe9;l egy ilyen harcb&#xf3;l k&#xf6;vetkezm&#xe9;nyek n&#xe9;lk&#xfc;l ki tud sz&#xe1;llni, azonban a mez&#x151;k sz&#xe1;m&#xe1;b&#xf3;l&#xa; kifoly&#xf3;lag egy ilyen m&#xe9;rk&#x151;z&#xe9;sre minden k&#xe9;ppen sor fog ker&#x171;lni. G&#xe9;pi j&#xe1;t&#xe9;k k&#xf6;vet&#x151;en, ha a vesztes f&#xe9;l j&#xe1;t&#xe9;kos, a&#xa; b&#xe1;b&#xfa;ja &#xfa;jra a kezd&#x151; helyen  fog elhelyezkedni, ellenkez&#x151; esetben haladhat tov&#xe1;bb;&#xa; - Teleport: csak 2 darab mez&#x151; van bel&#x151;le. A p&#xe1;ly&#xe1;n b&#xe1;rhol elhelyezhet, ha erre l&#xe9;p a felhaszn&#xe1;l&#xf3;&#xa; &#xa; Menteni a t&#xe1;bla k&#xe9;perny&#x151;n van lehet&#x151;s&#xe9;g. Egy j&#xe1;t&#xe9;kment&#xe9;si hely &#xe1;ll rendelkez&#xe9;sre. Abban az esetben, ha men-&#xa; t&#xe9;sre ker&#x171;l a sor, majd lej&#xe1;tszotok egy &#xfa;j j&#xe1;t&#xe9;kot, akkor a l&#xe9;trehozott ment&#xe9;setek elveszik.  &#xda;j ment&#xe9;s fel&#x171;l&#xed;rja&#xa; a m&#xe1;r megl&#xe9;v&#x151; ment&#xe9;seteket.&#xa; Kil&#xe9;pni a t&#xe1;bl&#xe1;r&#xf3;l b&#xe1;rmikor, az Esc billenyt&#x171; megnyom&#xe1;s&#xe1;val tudtok. Itt lehet&#x151;ss&#xe9;getek lesz menteni, &#xa; visszat&#xe9;rni vagy kil&#xe9;pni a j&#xe1;t&#xe9;kb&#xf3;l. &#xa; A j&#xe1;t&#xe9;k alatt zene fut, kikapcsolni a j&#xe1;t&#xe9;kon bel&#x171;l nem lehet. &#xa;&#xa; "/>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.BevelBorderInfo">
+                <BevelBorder>
+                  <Color PropertyName="highlightOuter" blue="ff" green="ff" id="white" palette="1" red="ff" type="palette"/>
+                  <Color PropertyName="highlightInner" blue="80" green="80" id="gray" palette="1" red="80" type="palette"/>
+                  <Color PropertyName="shadowOuter" blue="80" green="80" id="gray" palette="1" red="80" type="palette"/>
+                  <Color PropertyName="shadowInner" blue="ff" green="ff" id="white" palette="1" red="ff" type="palette"/>
+                </BevelBorder>
+              </Border>
+            </Property>
+            <Property name="focusable" type="boolean" value="false"/>
+            <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[550, 550]"/>
+            </Property>
+            <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[550, 550]"/>
+            </Property>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[550, 550]"/>
+            </Property>
+            <Property name="requestFocusEnabled" type="boolean" value="false"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jTextArea1MouseClicked"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="386" height="547"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+  </SubComponents>
+</Form>

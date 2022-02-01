@@ -1,0 +1,11 @@
+jé	pir
+3	3
+5	5
+5	5
+1	1
+2	127
+1	0
+file:/C:/Users/TeszTa/Documents/NetBeansProjects/TankJatekPEST/build/classes/kepek/kek1	file:/C:/Users/TeszTa/Documents/NetBeansProjects/TankJatekPEST/build/classes/kepek/piros1
+false	true
+false	false
+1
